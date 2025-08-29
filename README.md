@@ -1,4 +1,4 @@
-# 🎵 Spotify Music Insights Dashboard (Power BI)
+# 🎵 Spotify Streaming Analsysi Dashboard (Power BI) 🎵
 
 [![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-blue)](https://powerbi.microsoft.com/)
 [![DAX](https://img.shields.io/badge/DAX-Calculations-orange)](https://learn.microsoft.com/en-us/dax/)
@@ -6,7 +6,7 @@
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 This **3-page interactive Power BI dashboard** analyzes Spotify listening trends, albums, artists, tracks, and user behavior.  
 It transforms raw Spotify data into actionable insights for understanding engagement patterns.
 
@@ -17,7 +17,7 @@ It transforms raw Spotify data into actionable insights for understanding engage
 
 ---
 
-## 🖼 Dashboard Screenshots
+##  Dashboard Screenshots
 
 ### 1️⃣ Overview Page
 ![Overview](Screenshots/Overview.png)
@@ -30,7 +30,7 @@ It transforms raw Spotify data into actionable insights for understanding engage
 
 ---
 
-## 💡 Key Insights Delivered
+## Key Insights Delivered
 - ✅ Identified **peak listening hours & days** for Spotify users.  
 - ✅ Highlighted **top albums, artists, and tracks** by frequency and engagement.  
 - ✅ Compared **latest year vs previous year** to uncover growth trends.  
@@ -38,7 +38,7 @@ It transforms raw Spotify data into actionable insights for understanding engage
 
 ---
 
-## 🛠 Tech Stack & Tools
+##  Tech Stack & Tools
 - **Power BI Desktop** – Dashboard creation & visualization  
 - **Power Query** – Data cleaning & transformation  
 - **DAX** – Calculated measures & KPIs  
@@ -48,7 +48,7 @@ It transforms raw Spotify data into actionable insights for understanding engage
 
 ---
 
-## 🔄 Project Workflow
+## Project Workflow
 1. Requirement Gathering & Business Understanding  
 2. Data Walkthrough & Connection  
 3. Data Cleaning / Quality Check  
@@ -72,11 +72,11 @@ Spotify-Music-Insights-Dashboard/
 │
 └── README.md                     
 
-## 🚀 How to Explore
+## How to Explore
 - **PBIX File:** Open in Power BI Desktop to explore interactively.  
 - **Screenshots:** Quick view of dashboard pages and KPIs.
 
-## 🎯 Outcome
+## Outcome
 This project demonstrates **end-to-end BI skills**, from data preparation to interactive visualization.  
 It delivers **actionable insights** on Spotify user listening trends, top performers, and year-over-year engagement, showcasing expertise in **Power BI, DAX, and dashboard storytelling**.
 
