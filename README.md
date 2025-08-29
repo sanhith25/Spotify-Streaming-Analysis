@@ -20,10 +20,10 @@ It transforms raw Spotify data into actionable insights for understanding engage
 ## 🖼 Dashboard Screenshots
 
 ### 1️⃣ Overview Page
-![Overview](Screenshot/Overview.png)
+![Overview](Screenshots/Overview.png)
 
 ### 2️⃣ Listening Patterns
-![Listening Patterns](Screenshots/ListeningPatterns.png)
+![Listening Patterns](Screenshots/Listening_Patterns.png)
 
 ### 3️⃣ Details Page
 ![Details](Screenshots/Details.png)
@@ -60,3 +60,23 @@ It transforms raw Spotify data into actionable insights for understanding engage
 ---
 
 ## 📂 Folder Structure
+Spotify-Music-Insights-Dashboard/
+│
+├── PBIX/                 
+│   └── SpotifyDashboard.pbix    
+│
+├── Screenshots/          
+│   ├── Overview.png               
+│   ├── ListeningPatterns.png      
+│   └── DetailsPage.png            
+│
+└── README.md                     
+
+## 🚀 How to Explore
+- **PBIX File:** Open in Power BI Desktop to explore interactively.  
+- **Screenshots:** Quick view of dashboard pages and KPIs.
+
+## 🎯 Outcome
+This project demonstrates **end-to-end BI skills**, from data preparation to interactive visualization.  
+It delivers **actionable insights** on Spotify user listening trends, top performers, and year-over-year engagement, showcasing expertise in **Power BI, DAX, and dashboard storytelling**.
+
