@@ -1,4 +1,4 @@
-# 🎵 Spotify Streaming Analysis Dashboard (Power BI) 🎵
+# Spotify Streaming Analysis Dashboard (Power BI)
 
 [![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-blue)](https://powerbi.microsoft.com/)
 [![DAX](https://img.shields.io/badge/DAX-Calculations-orange)](https://learn.microsoft.com/en-us/dax/)
